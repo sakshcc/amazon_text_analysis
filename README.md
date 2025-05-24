@@ -22,6 +22,3 @@ The goal was to automate the process of understanding large volumes of customer 
 - Most customers leaned toward positive sentiment overall, but there were noticeable dips in satisfaction around delivery delays and product quality.
 - LDA revealed topics related to shipping, packaging, and product performance.
 - Visualizations helped uncover how customer sentiment shifted across different topics.
-
-## 📚 Dataset Source
-The dataset is available on Kaggle: [Amazon Fine Food Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)
